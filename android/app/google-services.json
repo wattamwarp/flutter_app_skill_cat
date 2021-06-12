@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369896174162",
+    "project_id": "skillcat-277d4",
+    "storage_bucket": "skillcat-277d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369896174162:android:d49d9d93d8f0301e3ea58b",
+        "android_client_info": {
+          "package_name": "com.hajeriflutter.flutter_app_skill_cat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369896174162-b3ho9dld87i7816vjdg5ued55pcq2nea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVK2AKPZ_I9v_FsTjB9kkLwpHA4RZakK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369896174162-b3ho9dld87i7816vjdg5ued55pcq2nea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
